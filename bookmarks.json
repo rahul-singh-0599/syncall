@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Azure Architecture Center",
+		"description": "Reference architectures, best practices, and cloud design patterns.",
+		"url": "https://learn.microsoft.com/en-us/azure/architecture/",
+		"tags": ["azure", "cloud", "docs"]
+	},
+	{
+		"name": "FastAPI Documentation",
+		"description": "Official user guide and API reference for building Python web APIs.",
+		"url": "https://fastapi.tiangolo.com/",
+		"tags": ["python", "api", "backend"]
+	},
+	{
+		"name": "Fuse.js Options",
+		"description": "Configuration reference for tuning fuzzy search thresholds and weights.",
+		"url": "https://www.fusejs.io/api/options.html",
+		"tags": ["javascript", "search", "docs"]
+	}
+]
