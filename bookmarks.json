@@ -16,5 +16,11 @@
 		"description": "Configuration reference for tuning fuzzy search thresholds and weights.",
 		"url": "https://www.fusejs.io/api/options.html",
 		"tags": ["javascript", "search", "docs"]
+	},
+	{
+		"name": "CodeForces",
+		"description": "Competitive Programming Practice",
+		"url": "https://codeforces.com/problemset?order=BY_RATING_ASC",
+		"tags": ["cp", "cpp", "c++", "coding"]
 	}
 ]
